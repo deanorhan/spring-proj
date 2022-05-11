@@ -1,4 +1,3 @@
-management:
-  health:
-    livenessstate.enabled: true
-    readinessstate.enabled: true
+spring:
+  application:
+    name: user-proj
